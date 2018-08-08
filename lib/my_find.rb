@@ -9,6 +9,4 @@ def my_find(collection)
     end
     index_count += 1 
   end
-  if 
-  new_collection
 end
