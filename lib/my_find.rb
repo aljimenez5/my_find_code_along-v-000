@@ -7,5 +7,5 @@ def my_find(collection)
     new_collection << yield(collection[index_count])
     index_count += 1 
   end
-
+  new_collection
 end
